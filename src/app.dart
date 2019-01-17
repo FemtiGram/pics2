@@ -26,6 +26,8 @@ class AppState extends State<App> {  // Widget State class //
       });
     
   }
+
+  //
   
   Widget build(context) { // Build must include 3 things. Include build. Return widget. Have build context.
     return MaterialApp( // Return everything below to Widget. MatrialApp -> Basic functions. Like navigation. Almost all apps start with this.
